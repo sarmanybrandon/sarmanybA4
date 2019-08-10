@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"name" : "Ham Sandwhich", "price": "$4", "calories": "300"},
+        {"name" : "Turkey Sandwhich", "price": "$5", "calories": "350"},
+        {"name" : "Soup", "price": "$2", "calories": "200"}
+    ]
+}
